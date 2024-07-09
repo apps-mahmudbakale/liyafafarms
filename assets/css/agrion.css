@@ -457,6 +457,7 @@ ul {
 
 .main-header__logo {
   display: block;
+  width: 300px;
 }
 
 .main-header__menu-box {
