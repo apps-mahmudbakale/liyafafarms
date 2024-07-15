@@ -2950,7 +2950,7 @@ ul {
 }
 
 .about-one__ceo-name {
-  font-size: 20px;
+  font-size: 17px;
   line-height: 20px;
   font-family: var(--agrion-reey-font);
 }
@@ -11692,7 +11692,7 @@ ul {
 }
 
 .about-three__points li .icon-box-text {
-  font-size: 18px;
+  font-size: 12px;
   color: var(--agrion-black);
   font-family: var(--agrion-font) !important;
   font-weight: 700;
